@@ -200,7 +200,7 @@ namespace FipeDownloader
                 }
                 file.Close();
             }
-            //Se nenhum dos combos estiverem preenchidos
+            //Se nenhum dos combos estiverem preenchidos dfreg
             else
             {
                 foreach (JDCMarcas iMarcas in gMarcas)
