@@ -10,6 +10,7 @@ namespace FipeDownloader
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+		/// mais um comentario
         [STAThread]
         static void Main()
         {
