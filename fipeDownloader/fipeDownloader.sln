@@ -17,6 +17,6 @@ Global
 		{4B23C9FD-9ADC-41BD-8B42-36F7F56D48CF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		HideSolutionNode = FALSE  
 	EndGlobalSection
 EndGlobal 
