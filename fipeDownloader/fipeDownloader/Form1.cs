@@ -69,6 +69,7 @@ namespace FipeDownloader
         /// <summary>
         /// Classe dos detalhes
         /// </summary>
+		/// closes ticket #1
         public class JDCDetalhe
         {
             public string referencia { get; set; }
